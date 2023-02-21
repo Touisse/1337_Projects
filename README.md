@@ -3,7 +3,7 @@ This Repo includes all my Projects that i developed in 1337 School
 ## 42cursus Progress 
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
-| 1   | [Libft](../42-libft)                  | ✅     |   | |                                      |      |   |  |                    |       |
+| 1   | [Libft](LIBFT)                  | ✅     |   | |                                      |      |   |  |                    |       |
 | 2   | [Born2beroot](../42-born2beroot)      | ✅     |   |  |                                    |     |   |   |                 |       |
 | 3   | [ft_printf](../42-ft_printf)          | ✅     |   |  | |     |   |  |                         |       |
 | 4   | [get_next_line](../42-get_next_line)  | ✅     |   |   | |     |   |  |                      |       |
